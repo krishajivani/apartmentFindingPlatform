@@ -1,0 +1,86 @@
+{
+  "0": {
+    "post_id": "0",
+    "user": {
+      "username": "username",
+      "user_id": "user_id",
+      "user_type": "landlord"
+    },
+    "location": "location",
+    "bedrooms": 4,
+    "price": 1001.0,
+    "post_info": "post_info"
+  },
+  "1": {
+    "post_id": "1",
+    "user": {
+      "username": "username",
+      "user_id": "user_id",
+      "user_type": "landlord"
+    },
+    "location": "location",
+    "bedrooms": 2,
+    "price": 1500.0,
+    "post_info": "post_info"
+  },
+  "2": {
+    "post_id": "2",
+    "user": {
+      "username": "username",
+      "user_id": "user_id",
+      "user_type": "landlord"
+    },
+    "location": "location",
+    "bedrooms": 2,
+    "price": 1600.0,
+    "post_info": "info"
+  },
+  "3": {
+    "post_id": "3",
+    "user": {
+      "username": "annabel",
+      "user_id": "acb365",
+      "user_type": "landlord"
+    },
+    "location": "Collegetown",
+    "bedrooms": 3,
+    "price": 1500.0,
+    "post_info": "cool"
+  },
+  "4": {
+    "post_id": "4",
+    "user": {
+      "username": "krisha",
+      "user_id": "kaj94",
+      "user_type": "landlord"
+    },
+    "location": "collegetown",
+    "bedrooms": 2,
+    "price": 1200.0,
+    "post_info": "groovy"
+  },
+  "5": {
+    "post_id": "5",
+    "user": {
+      "username": "yekta",
+      "user_id": "yk11",
+      "user_type": "landlord"
+    },
+    "location": "ctown",
+    "bedrooms": 3,
+    "price": 1300.0,
+    "post_info": "info"
+  },
+  "10934550": {
+    "post_id": "10934550",
+    "user": {
+      "username": "ans248",
+      "user_id": "00011",
+      "user_type": "landlord"
+    },
+    "location": "West",
+    "bedrooms": 3,
+    "price": 1000.0,
+    "post_info": "Awesome joint"
+  }
+}

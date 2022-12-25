@@ -1,0 +1,44 @@
+{
+  "comment1": {
+    "username": "abc123",
+    "post_id": "post2",
+    "position": 0,
+    "info": "Is plumbing included?"
+  },
+  "comment2": {
+    "username": "bbbbbb",
+    "post_id": "post2",
+    "position": 1,
+    "info": "No but heating is"
+  },
+  "comment3": {
+    "username": "abc123",
+    "post_id": "post2",
+    "position": 2,
+    "info": "ok thanks"
+  },
+  "comment4": {
+    "username": "fff333",
+    "post_id": "post3",
+    "position": 0,
+    "info": "How far from CTB?"
+  },
+  "comment5": {
+    "username": "cccccc",
+    "post_id": "post3",
+    "position": 1,
+    "info": "Only a five minute walk!"
+  },
+  "comment6": {
+    "username": "ctb222",
+    "post_id": "post4",
+    "position": 0,
+    "info": "Is this in an apartment building or a house?"
+  },
+  "comment7": {
+    "username": "dddddd",
+    "post_id": "post4",
+    "position": 1,
+    "info": "This apartment is part of a divided-up house, taking up most of the second floor."
+  }
+}

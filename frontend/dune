@@ -1,0 +1,3 @@
+(executable
+ (libraries "lablgtk2" yojson ANSITerminal)
+ (name Guione))

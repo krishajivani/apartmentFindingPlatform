@@ -1,0 +1,50 @@
+{
+  "0post2": {
+    "username": "abc123",
+    "post_id": "post2",
+    "position": 0,
+    "info": "Does anyone want to room with me for this place?"
+  },
+  "comment2": {
+    "username": "xyz456",
+    "post_id": "post2",
+    "position": 1,
+    "info": "Yeah I'm down!"
+  },
+  "comment3": {
+    "username": "ppp333",
+    "post_id": "post3",
+    "position": 0,
+    "info": "Roomies anyone?"
+  },
+  "comment4": {
+    "username": "rrr777",
+    "post_id": "post3",
+    "position": 1,
+    "info": "Me!"
+  },
+  "comment5": {
+    "username": "xxx999",
+    "post_id": "post3",
+    "position": 2,
+    "info": "Me too!"
+  },
+  "comment6": {
+    "username": "qrq22",
+    "post_id": "post4",
+    "position": 0,
+    "info": "NO ONE take this. I lived in a different apartment with this landlord and it was an absolute scam."
+  },
+  "comment7": {
+    "username": "aaa222",
+    "post_id": "post4",
+    "position": 1,
+    "info": "lol tea"
+  },
+  "comment8": {
+    "username": "rkr443",
+    "post_id": "post5",
+    "position": 0,
+    "info": "this place is literally PERFECT for me and my friends!!"
+  }
+}

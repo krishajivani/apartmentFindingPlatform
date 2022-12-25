@@ -1,0 +1,144 @@
+{
+  "post1": {
+    "post_id": "post1",
+    "user": {
+      "username": "username1",
+      "user_id": "aaaaaa",
+      "user_type": "landlord"
+    },
+    "location": "Northwest Collegetown",
+    "bedrooms": 2,
+    "price": 1000.0,
+    "post_info": "Have pretty room. Yay! Buy!",
+    "likes": 10,
+    "comments_students": [],
+    "comments_all": []
+  },
+  "post2": {
+    "post_id": "post2",
+    "user": {
+      "username": "username2",
+      "user_id": "bbbbbb",
+      "user_type": "landlord"
+    },
+    "location": "Southwest Collegetown",
+    "bedrooms": 1,
+    "price": 650.0,
+    "post_info": "Small cozy place. Nice light and central location. Reach out if interested!",
+    "likes": 2,
+    "comments_students": [
+      {
+        "username": "abc123",
+        "comment": "Does anyone want to room with me for this place?"
+      },
+      {
+        "username": "xyz456",
+        "comment": "Yeah I'm down!"
+      }
+    ],
+    "comments_all": [
+      {
+        "username": "abc123",
+        "comment": "Is plumbing included?"
+      },
+      {
+        "username": "bbbbbb",
+        "comment": "No but heating is"
+      },
+      {
+        "username": "abc123",
+        "comment": "ok thanks"
+      }
+    ]
+  },
+  "post3": {
+    "post_id": "post3",
+    "user": {
+      "username": "username3",
+      "user_id": "cccccc",
+      "user_type": "landlord"
+    },
+    "location": "North Collegetown",
+    "bedrooms": 4,
+    "price": 2100.0,
+    "post_info": "Large loft for 4 people! Beautiful view and quiet building",
+    "likes": 0,
+    "comments_students": [
+      {
+        "username": "ppp333",
+        "comment": "Roomies anyone?"
+      },
+      {
+        "username": "rrr777",
+        "comment": "Me!"
+      },
+      {
+        "username": "xxx999",
+        "comment": "Me too!"
+      }
+    ],
+    "comments_all": [
+      {
+        "username": "fff333",
+        "comment": "How far from CTB?"
+      },
+      {
+        "username": "cccccc",
+        "comment": "Only a five minute walk!"
+      }
+    ]
+  },
+  "post4": {
+    "post_id": "post4",
+    "user": {
+      "username": "username4",
+      "user_id": "dddddd",
+      "user_type": "landlord"
+    },
+    "location": "Collegetown",
+    "bedrooms": 3,
+    "price": 1600.0,
+    "post_info": "Two bed apartment on north campus, in a super nice neighborhood!",
+    "likes": 4,
+    "comments_students": [
+      {
+        "username": "qrq22",
+        "comment": "NO ONE take this. I lived in a different apartment with this landlord and it was an absolute scam."
+      },
+      {
+        "username": "aaa222",
+        "comment": "lol tea"
+      }
+    ],
+    "comments_all": [
+      {
+        "username": "ctb222",
+        "comment": "Is this in an apartment building or a house?"
+      },
+      {
+        "username": "dddddd",
+        "comment": "This apartment is part of a divided-up house, taking up most of the second floor."
+      }
+    ]
+  },
+  "post5": {
+    "post_id": "post5",
+    "user": {
+      "username": "username5",
+      "user_id": "eeeeee",
+      "user_type": "landlord"
+    },
+    "location": "Collegetown",
+    "bedrooms": 3,
+    "price": 1599.99,
+    "post_info": "3 bed 2 bath apartment, super convenient for Cornell students.",
+    "likes": 24,
+    "comments_students": [
+      {
+        "username": "rkr443",
+        "comment": "this place is literally PERFECT for me and my friends!!"
+      }
+    ],
+    "comments_all": []
+  }
+}

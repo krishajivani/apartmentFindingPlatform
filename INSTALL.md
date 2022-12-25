@@ -1,0 +1,4 @@
+# CS3110-Final_Project
+To install the Gui library (lablgtk2), run [opam install lablgtk] if you have a Mac or [sudo apt-get update] and then [sudo apt install lablgtk2] if you have Windows.
+
+Run [make play] to run the GUI or [make search] to run the searching feature. After you run [make search], enter [Collegetown 3 1500.,2000.] to see the feature. If something does not run, then run [dune build] and try again. Repeat this process to see the storing of posts, student comments, and public comments by commenting/uncommenting the respective sections in interface.ml, running [make search] to see each feature.

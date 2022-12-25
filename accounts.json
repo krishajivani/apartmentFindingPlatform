@@ -1,0 +1,32 @@
+{
+  "454365": {
+    "user_id": "454365",
+    "username": "Annabel",
+    "user_type": "student",
+    "password": "chocolatemarshmallow"
+  },
+  "123456": {
+    "user_id": "123456",
+    "username": "Clarkson",
+    "user_type": "landlord",
+    "password": "snarlyhacker"
+  },
+  "232394": {
+    "user_id": "232394",
+    "username": "Krisha",
+    "user_type": "student",
+    "password": "ihate2800"
+  },
+  "234567": {
+    "user_id": "234567",
+    "username": "Anke",
+    "user_type": "landlord",
+    "password": "2800rox"
+  },
+  "6348552": {
+    "user_id": "6348552",
+    "username": "ans248",
+    "user_type": "Landlord",
+    "password": "Aidan10s"
+  }
+}
