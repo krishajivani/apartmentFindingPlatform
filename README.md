@@ -1,6 +1,10 @@
-# CS3110-Final_Project
-#hi can i please push something please
-#test 2
-#backend branch test
-#backend1 annabel test
-#yojson not recognized for Krisha"# apartmentFindingPlatform" 
+# University Apartment Finding Platform
+Developed a platform for university students to search for and share their experiences with off-campus housing using Ocaml and JSON for file management with a team of 4
+
+## Team
+Krisha Jivani, Annabel Baniak, Aidan Sims, Yekta Samani
+
+## Features
+I implemented a searching feature, landlord verification, and saving/loading of landlord-made posts and public comments on the backend
+
+
